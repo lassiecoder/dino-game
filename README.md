@@ -2,6 +2,8 @@
 
 This is a simple dinosaur game built using Python and Pygame.
 
+![Image](https://github.com/user-attachments/assets/d0409a56-edce-4391-b6ec-d57275c51f3a)
+
 ## Setup
 
 1. Install [Python 3.13.2](https://www.python.org/downloads/)
