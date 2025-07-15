@@ -40,6 +40,3 @@ This is a simple dinosaur game built using Python and Pygame.
 - `dino_game.py`: Main game script
 - `bin/`, `lib/`, `include/`, `pyvenv.cfg`: Virtual environment files
 
-## License
-
-This project is licensed under the MIT License.
